@@ -1,5 +1,9 @@
 [ProjectWindow_Data]
+<<<<<<< HEAD
 ProjectExplorer.ClassicPosition[String] = "62,237,509,895"
+=======
+ProjectExplorer.ClassicPosition[String] = "79,80,526,738"
+>>>>>>> origin/master
 
 [AB_Cache_{8C1C8770-D686-4931-835E-3A364C203F20}]
 Cache_Path[Path] Line0001 = "/C/Users/HowdyBots2/AppData/Local/Temp/AB_Cache_{8"

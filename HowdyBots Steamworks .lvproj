@@ -174,10 +174,10 @@
 			<Item Name="niimaqdx.dll" Type="Document" URL="niimaqdx.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="/../Documents/HowdyBots2/Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Sorted Particle Report 2016.vi"/>
-			<Item Name="Cull and Group Vertical.vi" Type="VI" URL="/../Documents/HowdyBots2/Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Cull and Group Vertical.vi"/>
-			<Item Name="Label Targets2.vi" Type="VI" URL="/../Documents/HowdyBots2/Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Label Targets2.vi"/>
-			<Item Name="Normalize Coordinates.vi" Type="VI" URL="/../Documents/HowdyBots2/Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Normalize Coordinates.vi"/>
+			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="/../Documents/HowdyBots1/Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Sorted Particle Report 2016.vi"/>
+			<Item Name="Cull and Group Vertical.vi" Type="VI" URL="/../Documents/HowdyBots1/Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Cull and Group Vertical.vi"/>
+			<Item Name="Label Targets2.vi" Type="VI" URL="/../Documents/HowdyBots1/Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Label Targets2.vi"/>
+			<Item Name="Normalize Coordinates.vi" Type="VI" URL="/../Documents/HowdyBots1/Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Normalize Coordinates.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -995,7 +995,6 @@ AddOutputFilter chunkFilter
 			<Item Name="turning with gyro left.vi" Type="VI" URL="../turning with gyro left.vi"/>
 			<Item Name="turning with gyro.vi" Type="VI" URL="../turning with gyro.vi"/>
 			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2016/examples/FRC/roboRIO/Vision/2017 Vision Example/Vision Support Code/Sorted Particle Report 2016.vi"/>
-			<Item Name="Robot Global Data.vi" Type="VI" URL="../../../../Desktop/Active-20170317/Active/Robot Global Data.vi"/>
 			<Item Name="Auto2 Timed Drive(SubVI).vi" Type="VI" URL="../../../Dashboard/active/Auto2 Timed Drive(SubVI).vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
